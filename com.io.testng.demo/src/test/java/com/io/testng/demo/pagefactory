@@ -1,0 +1,6 @@
+loginusername.id=user-name
+loginpassword.id=password
+loginbutton.id=login-button
+addtocart.xpath=//*[@id=\"inventory_container\"]/div/div[2]/div[3]/button
+gotocart.xpath=*//span[@class='fa-layers-counter shopping_cart_badge']
+checkout.xpath=//a[@class='btn_action checkout_button']
