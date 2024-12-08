@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 public class Login extends BaseClass {
 	@Test(description="This TC will perform valid login")
-	public void loginToApplication() throws Throwable
+	public void loginToApplications() throws Throwable
 	{
 		Properties prop = new Properties();
 		FileInputStream io=new FileInputStream("C:\\Users\\Admin\\eclipse-workspace\\MyWs\\com.io.testng.demo\\src\\test\\java\\com\\io\\testng\\demo\\pagefactory");
